@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased !important;
+}
+body {
+  background: #dfdede;
+}
+header {
+  text-align: center;
+  background-color: #383a4f;
+  padding: 50px 25px;
+}
+nav {
+  margin-top: 18px;
+  font-size: 20px;
+  top: 10px;
+}
+nav a {
+  text-decoration: none;
+  background: white;
+  padding: 3px 8px;
+  margin: 0px 8px 0px 8px;
+}
+#menu {
+  background: #2c2a29;
+  float: left;
+  position: relative;
+  text-align: center;
+  padding: 100px 70px 250px;
+}
+.sidebar ul a {
+  background: #dfdede;
+}
+.banner {
+  height: 422px;
+}
